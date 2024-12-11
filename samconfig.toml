@@ -10,6 +10,5 @@ stack_name = "trivia-app"
 resolve_s3 = true
 s3_prefix = "trivia-app"
 region = "us-east-1"
-profile = "bias_firmansyah"
 capabilities = "CAPABILITY_IAM"
 image_repositories = []
