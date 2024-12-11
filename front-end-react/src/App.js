@@ -20,7 +20,7 @@ function GetStarted(props) {
     <Card.Body>
       <Card.Title>Let’s Get Started !!! - yes</Card.Title>
       <Card.Text>
-        Click the button below to start a new game.
+        Click the button below to start a new game brooowwww
       </Card.Text>
       <Button variant="primary" onClick={props.onNewGame}>Create a New Game</Button>
     </Card.Body>
