@@ -1,6 +1,6 @@
 version = 0.1
 [default.build.parameters]
-template_file = "c:\\Users\\achma\\OneDrive\\Documents\\ASKARASOFT\\DICODING\\a428-cicd-labs\\template.yaml"
+template_file = "template.yaml"
 cached = true
 parallel = true
 use_container = true
